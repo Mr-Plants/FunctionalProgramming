@@ -1,0 +1,22 @@
+{
+  "name": "functionalprogramming",
+  "version": "1.0.0",
+  "description": "函数式编程",
+  "main": "average.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mr-Plants/FunctionalProgramming.git"
+  },
+  "author": "weiyb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mr-Plants/FunctionalProgramming/issues"
+  },
+  "homepage": "https://github.com/Mr-Plants/FunctionalProgramming#readme",
+  "dependencies": {
+    "loadsh": "0.0.4"
+  }
+}
